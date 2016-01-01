@@ -1,0 +1,13 @@
+li a {
+    color: white;
+}
+li a:hover {
+    color: red;
+}
+li a:visited {
+    color: gray;
+}
+
+body {
+    background: url("images/bg.jpg") no-repeat;
+}
